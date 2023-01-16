@@ -1,0 +1,31 @@
+----------------------------------------
+ActivityId: 29581457-40b1-49a2-aee3-922af4bfbd02
+
+Timestamp: 1/16/2023 2:44:28 PM
+
+Message: Anti XSRF token failed validation. No cookie present. Url: http://localhost:60876/Sitefinity/Login?ReturnUrl=http%3a%2f%2flocalhost%3a60876%2fsitefinity%2f; Referrer: http://localhost:60876/Sitefinity/Login?ReturnUrl=http%3a%2f%2flocalhost%3a60876%2fsitefinity%2f; Origin: http://localhost:60876; User: 00000000-0000-0000-0000-000000000000.
+
+Category: ErrorLog
+
+Priority: -1
+
+EventId: 1
+
+Severity: Information
+
+Title:
+
+Machine: JOLT-DL-HO-0023
+
+App Domain: /LM/W3SVC/2/ROOT-1-133183536642037571
+
+ProcessId: 14880
+
+Process Name: C:\Program Files (x86)\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:34764
+
+Extended Properties: 
+----------------------------------------
